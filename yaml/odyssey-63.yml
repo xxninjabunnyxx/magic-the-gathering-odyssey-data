@@ -1,0 +1,116 @@
+---
+object: card
+id: 5b27130d-2296-4076-9829-15ab63081896
+oracle_id: 69a72414-d02f-4a5c-b5c9-8941bb181f61
+multiverse_ids:
+- 31815
+mtgo_id: 16893
+mtgo_foil_id: 16894
+tcgplayer_id: 9338
+cardmarket_id: 2475
+name: Aven Fisher
+lang: en
+released_at: '2001-10-01'
+uri: https://api.scryfall.com/cards/5b27130d-2296-4076-9829-15ab63081896
+scryfall_uri: https://scryfall.com/card/ody/63/aven-fisher?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/5/b/5b27130d-2296-4076-9829-15ab63081896.jpg?1562911864
+  normal: https://cards.scryfall.io/normal/front/5/b/5b27130d-2296-4076-9829-15ab63081896.jpg?1562911864
+  large: https://cards.scryfall.io/large/front/5/b/5b27130d-2296-4076-9829-15ab63081896.jpg?1562911864
+  png: https://cards.scryfall.io/png/front/5/b/5b27130d-2296-4076-9829-15ab63081896.png?1562911864
+  art_crop: https://cards.scryfall.io/art_crop/front/5/b/5b27130d-2296-4076-9829-15ab63081896.jpg?1562911864
+  border_crop: https://cards.scryfall.io/border_crop/front/5/b/5b27130d-2296-4076-9829-15ab63081896.jpg?1562911864
+mana_cost: "{3}{U}"
+cmc: 4.0
+type_line: Creature — Bird Soldier
+oracle_text: |-
+  Flying (This creature can't be blocked except by creatures with flying or reach.)
+  When Aven Fisher dies, you may draw a card.
+power: '2'
+toughness: '2'
+colors:
+- U
+color_identity:
+- U
+keywords:
+- Flying
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: b0d90d2d-494a-4224-bfa0-36ce5ee281b1
+set: ody
+set_name: Odyssey
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/b0d90d2d-494a-4224-bfa0-36ce5ee281b1
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aody&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ody?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/5b27130d-2296-4076-9829-15ab63081896/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A69a72414-d02f-4a5c-b5c9-8941bb181f61&unique=prints
+collector_number: '63'
+digital: false
+rarity: common
+flavor_text: The same spears that catch their food today will defend their homes tomorrow.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Christopher Moeller
+artist_ids:
+- 21e10012-06ae-44f2-b38d-3824dd2e73d4
+illustration_id: fcc48146-0aee-43b6-adcd-63959b8a33a7
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 19850
+penny_rank: 4666
+prices:
+  usd: '0.10'
+  usd_foil: '0.27'
+  usd_etched: 
+  eur: '0.09'
+  eur_foil: '0.49'
+  tix: '0.05'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=31815
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Aven+Fisher&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Aven+Fisher&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Aven+Fisher
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/9338?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Aven+Fisher&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/16893?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

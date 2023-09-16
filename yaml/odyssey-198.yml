@@ -1,0 +1,116 @@
+---
+object: card
+id: ee88c776-85f1-4beb-a814-f706f5c4f341
+oracle_id: 153bb46f-ee8a-4da3-aab4-ae884f6ff403
+multiverse_ids:
+- 29963
+mtgo_id: 16663
+mtgo_foil_id: 16664
+tcgplayer_id: 9473
+cardmarket_id: 2610
+name: Kamahl, Pit Fighter
+lang: en
+released_at: '2001-10-01'
+uri: https://api.scryfall.com/cards/ee88c776-85f1-4beb-a814-f706f5c4f341
+scryfall_uri: https://scryfall.com/card/ody/198/kamahl-pit-fighter?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/e/e/ee88c776-85f1-4beb-a814-f706f5c4f341.jpg?1562939767
+  normal: https://cards.scryfall.io/normal/front/e/e/ee88c776-85f1-4beb-a814-f706f5c4f341.jpg?1562939767
+  large: https://cards.scryfall.io/large/front/e/e/ee88c776-85f1-4beb-a814-f706f5c4f341.jpg?1562939767
+  png: https://cards.scryfall.io/png/front/e/e/ee88c776-85f1-4beb-a814-f706f5c4f341.png?1562939767
+  art_crop: https://cards.scryfall.io/art_crop/front/e/e/ee88c776-85f1-4beb-a814-f706f5c4f341.jpg?1562939767
+  border_crop: https://cards.scryfall.io/border_crop/front/e/e/ee88c776-85f1-4beb-a814-f706f5c4f341.jpg?1562939767
+mana_cost: "{4}{R}{R}"
+cmc: 6.0
+type_line: Legendary Creature — Human Barbarian
+oracle_text: |-
+  Haste (This creature can attack and {T} as soon as it comes under your control.)
+  {T}: Kamahl, Pit Fighter deals 3 damage to any target.
+power: '6'
+toughness: '1'
+colors:
+- R
+color_identity:
+- R
+keywords:
+- Haste
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: b0d90d2d-494a-4224-bfa0-36ce5ee281b1
+set: ody
+set_name: Odyssey
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/b0d90d2d-494a-4224-bfa0-36ce5ee281b1
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aody&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ody?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/ee88c776-85f1-4beb-a814-f706f5c4f341/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A153bb46f-ee8a-4da3-aab4-ae884f6ff403&unique=prints
+collector_number: '198'
+digital: false
+rarity: rare
+flavor_text: '"I didn''t come to play. I came to win."'
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Kev Walker
+artist_ids:
+- f366a0ee-a0cd-466d-ba6a-90058c7a31a6
+illustration_id: 3d080883-e853-48b9-9b60-9c694d641276
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 11913
+penny_rank: 7104
+prices:
+  usd: '0.84'
+  usd_foil: '39.50'
+  usd_etched: 
+  eur: '0.97'
+  eur_foil: '35.00'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=29963
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Kamahl%2C+Pit+Fighter&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Kamahl%2C+Pit+Fighter&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Kamahl%2C+Pit+Fighter
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/9473?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Kamahl%2C+Pit+Fighter&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/16663?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

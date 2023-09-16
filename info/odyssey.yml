@@ -1,0 +1,21 @@
+---
+object: set
+id: b0d90d2d-494a-4224-bfa0-36ce5ee281b1
+code: ody
+mtgo_code: od
+arena_code: od
+tcgplayer_id: 80
+name: Odyssey
+uri: https://api.scryfall.com/sets/b0d90d2d-494a-4224-bfa0-36ce5ee281b1
+scryfall_uri: https://scryfall.com/sets/ody
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Aody&unique=prints
+released_at: '2001-10-01'
+set_type: expansion
+card_count: 353
+printed_size: 350
+digital: false
+nonfoil_only: false
+foil_only: false
+block_code: ody
+block: Odyssey
+icon_svg_uri: https://svgs.scryfall.io/sets/ody.svg?1694404800

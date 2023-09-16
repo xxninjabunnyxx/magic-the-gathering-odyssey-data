@@ -1,0 +1,114 @@
+---
+object: card
+id: 69ed2b52-2862-423c-8ce3-6c8232d9d92c
+oracle_id: 9ae2bf71-c443-4814-b7c3-b3b82d595983
+multiverse_ids:
+- 29859
+mtgo_id: 16647
+mtgo_foil_id: 16648
+tcgplayer_id: 9478
+cardmarket_id: 2615
+name: Magma Vein
+lang: en
+released_at: '2001-10-01'
+uri: https://api.scryfall.com/cards/69ed2b52-2862-423c-8ce3-6c8232d9d92c
+scryfall_uri: https://scryfall.com/card/ody/203/magma-vein?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/6/9/69ed2b52-2862-423c-8ce3-6c8232d9d92c.jpg?1562914619
+  normal: https://cards.scryfall.io/normal/front/6/9/69ed2b52-2862-423c-8ce3-6c8232d9d92c.jpg?1562914619
+  large: https://cards.scryfall.io/large/front/6/9/69ed2b52-2862-423c-8ce3-6c8232d9d92c.jpg?1562914619
+  png: https://cards.scryfall.io/png/front/6/9/69ed2b52-2862-423c-8ce3-6c8232d9d92c.png?1562914619
+  art_crop: https://cards.scryfall.io/art_crop/front/6/9/69ed2b52-2862-423c-8ce3-6c8232d9d92c.jpg?1562914619
+  border_crop: https://cards.scryfall.io/border_crop/front/6/9/69ed2b52-2862-423c-8ce3-6c8232d9d92c.jpg?1562914619
+mana_cost: "{2}{R}"
+cmc: 3.0
+type_line: Enchantment
+oracle_text: "{R}, Sacrifice a land: Magma Vein deals 1 damage to each creature without
+  flying."
+colors:
+- R
+color_identity:
+- R
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: b0d90d2d-494a-4224-bfa0-36ce5ee281b1
+set: ody
+set_name: Odyssey
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/b0d90d2d-494a-4224-bfa0-36ce5ee281b1
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aody&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ody?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/69ed2b52-2862-423c-8ce3-6c8232d9d92c/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A9ae2bf71-c443-4814-b7c3-b3b82d595983&unique=prints
+collector_number: '203'
+digital: false
+rarity: uncommon
+flavor_text: |-
+  Standing near a volcano
+  —Barbarian expression meaning "asking for it"
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Glen Angus
+artist_ids:
+- 7be3b9e4-de9b-4a3d-884e-e67b9681d409
+illustration_id: 90d88b4c-2e2a-4b9d-b07d-f7f2a9a9512e
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 23432
+penny_rank: 9447
+prices:
+  usd: '0.19'
+  usd_foil: '0.35'
+  usd_etched: 
+  eur: '0.02'
+  eur_foil: '0.99'
+  tix: '0.06'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=29859
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Magma+Vein&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Magma+Vein&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Magma+Vein
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/9478?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Magma+Vein&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/16647?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

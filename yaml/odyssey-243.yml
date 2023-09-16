@@ -1,0 +1,113 @@
+---
+object: card
+id: 2134a564-b089-4049-bd9c-a3f10e072263
+oracle_id: 7e108285-52da-473c-accd-d48e646a49c0
+multiverse_ids:
+- 29994
+mtgo_id: 16563
+mtgo_foil_id: 16564
+tcgplayer_id: 9518
+cardmarket_id: 2655
+name: Holistic Wisdom
+lang: en
+released_at: '2001-10-01'
+uri: https://api.scryfall.com/cards/2134a564-b089-4049-bd9c-a3f10e072263
+scryfall_uri: https://scryfall.com/card/ody/243/holistic-wisdom?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/2/1/2134a564-b089-4049-bd9c-a3f10e072263.jpg?1562901147
+  normal: https://cards.scryfall.io/normal/front/2/1/2134a564-b089-4049-bd9c-a3f10e072263.jpg?1562901147
+  large: https://cards.scryfall.io/large/front/2/1/2134a564-b089-4049-bd9c-a3f10e072263.jpg?1562901147
+  png: https://cards.scryfall.io/png/front/2/1/2134a564-b089-4049-bd9c-a3f10e072263.png?1562901147
+  art_crop: https://cards.scryfall.io/art_crop/front/2/1/2134a564-b089-4049-bd9c-a3f10e072263.jpg?1562901147
+  border_crop: https://cards.scryfall.io/border_crop/front/2/1/2134a564-b089-4049-bd9c-a3f10e072263.jpg?1562901147
+mana_cost: "{1}{G}{G}"
+cmc: 3.0
+type_line: Enchantment
+oracle_text: "{2}, Exile a card from your hand: Return target card from your graveyard
+  to your hand if it shares a card type with the card exiled this way. (Artifact,
+  creature, enchantment, instant, land, planeswalker, sorcery, and tribal are card
+  types.)"
+colors:
+- G
+color_identity:
+- G
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: b0d90d2d-494a-4224-bfa0-36ce5ee281b1
+set: ody
+set_name: Odyssey
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/b0d90d2d-494a-4224-bfa0-36ce5ee281b1
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aody&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ody?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/2134a564-b089-4049-bd9c-a3f10e072263/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A7e108285-52da-473c-accd-d48e646a49c0&unique=prints
+collector_number: '243'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Rebecca Guay
+artist_ids:
+- f8f662fa-d597-46a3-afb2-91d6e13243e2
+illustration_id: a933a52d-400a-4e35-8939-b012a75fa75c
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 13872
+penny_rank: 13328
+prices:
+  usd: '3.82'
+  usd_foil: '57.95'
+  usd_etched: 
+  eur: '1.99'
+  eur_foil: '24.90'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=29994
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Holistic+Wisdom&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Holistic+Wisdom&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Holistic+Wisdom
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/9518?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Holistic+Wisdom&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/16563?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

@@ -1,0 +1,115 @@
+---
+object: card
+id: 538ffe1e-c312-4797-99dd-9bf5f896bdc3
+oracle_id: b9be00a5-448f-4c90-b9ca-b30bcdfe95f2
+multiverse_ids:
+- 31823
+mtgo_id: 16863
+mtgo_foil_id: 16864
+tcgplayer_id: 9376
+cardmarket_id: 2513
+name: Shifty Doppelganger
+lang: en
+released_at: '2001-10-01'
+uri: https://api.scryfall.com/cards/538ffe1e-c312-4797-99dd-9bf5f896bdc3
+scryfall_uri: https://scryfall.com/card/ody/101/shifty-doppelganger?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/5/3/538ffe1e-c312-4797-99dd-9bf5f896bdc3.jpg?1562910319
+  normal: https://cards.scryfall.io/normal/front/5/3/538ffe1e-c312-4797-99dd-9bf5f896bdc3.jpg?1562910319
+  large: https://cards.scryfall.io/large/front/5/3/538ffe1e-c312-4797-99dd-9bf5f896bdc3.jpg?1562910319
+  png: https://cards.scryfall.io/png/front/5/3/538ffe1e-c312-4797-99dd-9bf5f896bdc3.png?1562910319
+  art_crop: https://cards.scryfall.io/art_crop/front/5/3/538ffe1e-c312-4797-99dd-9bf5f896bdc3.jpg?1562910319
+  border_crop: https://cards.scryfall.io/border_crop/front/5/3/538ffe1e-c312-4797-99dd-9bf5f896bdc3.jpg?1562910319
+mana_cost: "{2}{U}"
+cmc: 3.0
+type_line: Creature — Shapeshifter
+oracle_text: "{3}{U}, Exile Shifty Doppelganger: You may put a creature card from
+  your hand onto the battlefield. If you do, that creature gains haste until end of
+  turn. At the beginning of the next end step, sacrifice that creature. If you do,
+  return Shifty Doppelganger to the battlefield."
+power: '1'
+toughness: '1'
+colors:
+- U
+color_identity:
+- U
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: b0d90d2d-494a-4224-bfa0-36ce5ee281b1
+set: ody
+set_name: Odyssey
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/b0d90d2d-494a-4224-bfa0-36ce5ee281b1
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aody&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ody?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/538ffe1e-c312-4797-99dd-9bf5f896bdc3/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab9be00a5-448f-4c90-b9ca-b30bcdfe95f2&unique=prints
+collector_number: '101'
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Greg Staples
+artist_ids:
+- 93d65564-bf00-447b-8406-e2031f03b6b1
+illustration_id: ab2a3f0f-0c59-47a5-b5dc-5ffec24f9c4f
+border_color: black
+frame: '1997'
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 20156
+penny_rank: 9463
+prices:
+  usd: '0.36'
+  usd_foil: '6.10'
+  usd_etched: 
+  eur: '0.23'
+  eur_foil: '8.19'
+  tix: '0.02'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=31823
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Shifty+Doppelganger&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Shifty+Doppelganger&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Shifty+Doppelganger
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/9376?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Shifty+Doppelganger&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/16863?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

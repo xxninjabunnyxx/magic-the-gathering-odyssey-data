@@ -1,0 +1,128 @@
+---
+object: card
+id: ddf54317-4c08-4a66-9fd2-9983384e2374
+oracle_id: b8b9e6fd-b3ed-4fbc-8753-74018fa33caa
+multiverse_ids:
+- 29881
+mtgo_id: 16569
+mtgo_foil_id: 16570
+tcgplayer_id: 9541
+cardmarket_id: 2678
+name: Roar of the Wurm
+lang: en
+released_at: '2001-10-01'
+uri: https://api.scryfall.com/cards/ddf54317-4c08-4a66-9fd2-9983384e2374
+scryfall_uri: https://scryfall.com/card/ody/266/roar-of-the-wurm?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/d/d/ddf54317-4c08-4a66-9fd2-9983384e2374.jpg?1562936406
+  normal: https://cards.scryfall.io/normal/front/d/d/ddf54317-4c08-4a66-9fd2-9983384e2374.jpg?1562936406
+  large: https://cards.scryfall.io/large/front/d/d/ddf54317-4c08-4a66-9fd2-9983384e2374.jpg?1562936406
+  png: https://cards.scryfall.io/png/front/d/d/ddf54317-4c08-4a66-9fd2-9983384e2374.png?1562936406
+  art_crop: https://cards.scryfall.io/art_crop/front/d/d/ddf54317-4c08-4a66-9fd2-9983384e2374.jpg?1562936406
+  border_crop: https://cards.scryfall.io/border_crop/front/d/d/ddf54317-4c08-4a66-9fd2-9983384e2374.jpg?1562936406
+mana_cost: "{6}{G}"
+cmc: 7.0
+type_line: Sorcery
+oracle_text: |-
+  Create a 6/6 green Wurm creature token.
+  Flashback {3}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)
+colors:
+- G
+color_identity:
+- G
+keywords:
+- Flashback
+all_parts:
+- object: related_card
+  id: d559711e-7895-46e1-a970-ce5a05ec1ee4
+  component: token
+  name: Wurm
+  type_line: Token Creature — Wurm
+  uri: https://api.scryfall.com/cards/d559711e-7895-46e1-a970-ce5a05ec1ee4
+- object: related_card
+  id: ddf54317-4c08-4a66-9fd2-9983384e2374
+  component: combo_piece
+  name: Roar of the Wurm
+  type_line: Sorcery
+  uri: https://api.scryfall.com/cards/ddf54317-4c08-4a66-9fd2-9983384e2374
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: not_legal
+  explorer: not_legal
+  modern: not_legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: legal
+  predh: legal
+games:
+- paper
+- mtgo
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: false
+reprint: false
+variation: false
+set_id: b0d90d2d-494a-4224-bfa0-36ce5ee281b1
+set: ody
+set_name: Odyssey
+set_type: expansion
+set_uri: https://api.scryfall.com/sets/b0d90d2d-494a-4224-bfa0-36ce5ee281b1
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aody&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/ody?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/ddf54317-4c08-4a66-9fd2-9983384e2374/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ab8b9e6fd-b3ed-4fbc-8753-74018fa33caa&unique=prints
+collector_number: '266'
+digital: false
+rarity: uncommon
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Kev Walker
+artist_ids:
+- f366a0ee-a0cd-466d-ba6a-90058c7a31a6
+illustration_id: 805dc656-b4bf-4b6e-80b5-af8597694334
+border_color: black
+frame: '1997'
+frame_effects:
+- tombstone
+full_art: false
+textless: false
+booster: true
+story_spotlight: false
+edhrec_rank: 13112
+penny_rank: 2669
+prices:
+  usd: '0.26'
+  usd_foil: '1.93'
+  usd_etched: 
+  eur: '0.27'
+  eur_foil: '11.58'
+  tix: '0.04'
+related_uris:
+  gatherer: https://gatherer.wizards.com/Pages/Card/Details.aspx?multiverseid=29881
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Roar+of+the+Wurm&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Roar+of+the+Wurm&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Roar+of+the+Wurm
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/9541?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Roar+of+the+Wurm&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards/16569?affiliate_id=scryfall&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
